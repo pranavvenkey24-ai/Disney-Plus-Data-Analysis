@@ -5,20 +5,6 @@ This project focuses on Exploratory Data Analysis (EDA), data cleaning, preproce
 
 The objective is to analyse the distribution of Movies and TV Shows, understand content release trends, examine movie durations, and develop an interactive dashboard for exploring the dataset.
 
-## Live Interactive Dashboard
-
-Explore the deployed Disney+ dashboard:
-
-👉 [Launch Disney+ Interactive Dashboard](https://hub.2i2c.mybinder.org/user/pranavvenkey24--s-data-analysis-gcvg8prv/voila/render/Disney_Plus_Voila_Dashboard.ipynb?token=fWzgglHdR6yVq2guHCKNVQ)
-
-The dashboard allows users to:
-- Filter content by type (All, Movie, TV Show).
-- Select a release-year range.
-- Explore dynamically updated visualisations.
-- View content statistics and trends.
-
-
-
 ## Dataset
 - **Total Records:** 1,450
 - **Total Features:** 12
