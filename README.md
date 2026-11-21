@@ -57,6 +57,8 @@ Dashboard features:
 - Release year range slider
 - Dynamically updated charts
 - Content count based on selected filters
+- Dynamically updated visualisations based on selected filters.
+- Content count based on the selected filters.
 
 ## Key Findings
 - Movies account for approximately 72.6% of the dataset.
